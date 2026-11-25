@@ -1,0 +1,14 @@
+title: 개발 일지
+description: 만들고 있는 것들을 기록하는 블로그
+lang: ko
+timezone: Asia/Seoul
+theme: minima
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+minima:
+  social_links:
+    github: ddoddi02
+
+exclude:
+  - README.md
